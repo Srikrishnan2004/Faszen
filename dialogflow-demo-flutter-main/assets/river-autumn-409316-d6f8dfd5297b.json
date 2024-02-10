@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "river-autumn-409316",
+  "private_key_id": "d6f8dfd5297b41c0e0981358c0e61b9a4753b6a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIXnfK9EU2mTEq\nAgcaZQr5C17W2k9Uc95Ul8JsuMTy+S8YzzuPGZjMfDvUVS72quvJiOIEaEFru5YU\nMT3VhnhIzDMdduuWatlnhFkc9AhI4XrRUvGsajjGcvN3j7nk5bgfp5gO1yPNOa7F\nyp4iW/vo2dN3gvJEZURvKhV6TdFAYWPVouTsB5xLYxxo2u8L3+e0E+1Eex/RYZgR\nfdERBkjFwjql/4rnjTQd6qPfNr3xU5iKO7O3sEFkc88x4rQ974XUL1Vxs1rkRXvs\nJcr3OncVSHfNIqmrb+OxwnAVKF8ca1P7ee2cqW5IP1Pol87k+iwPojSvowcsClWp\nOS/mAGpjAgMBAAECggEAIUc0qivrxZJSjLbi1crBCcqOU9d/pCJ3uKED6j690dpP\nrNUuVSlb1rUuJ/6F2vNZpJKWx0NG1PfGM1BXrruzWpPfoXMmKZ38Fv9E4FQqKWtE\nP2PWk7DeAR0HvBcjjsAV1oa6myxhhoJKuWWvjJFZGLv6LTfoY4ergrMAojGDzCdA\nIEYs3IiJaXqw7DG8Z2SBXKcISVnQ9SMCSwHOJSvC6o7AcQCu5hyYQbQzlYxyWfK1\n7aJYEvdg2fCncx8nl6MWHjTGxwLIqPD9jc59ITl93DIoP1VvPTmcEsAPBl5YZhxv\nLoSaLmQGmH0/kSSoElf8051YCN/UONufopBCDqidMQKBgQDlINZ7wPSMCbAaXBCm\nT+76ekYH4lTNT66aN1bhU+AAZmAEU5ObuQcrTsqjgWLvWX4qLAAfGLzgL2NsB/Gu\nSP7yezWOOOXJMkKkeHp/7cnUp48h7N6aSCIJ1j5GLhukoH8CXF581RuaeN6+8dlK\n3SSXZweGQdGAFBmzN6HNjySVtQKBgQDf3i92ksMFS9dsEebinjkA5F9xYIhD4vXQ\nyevkPQzBHQEV0vOopvBRQdtvkl5qpHJK0H+3DcFZvoHDzVrwAKLrp96tLuNfFpaE\nAJCFk0uvAs4BoEj8VmE/V74CxaK/faTaNwwO4miApjjdQMccZYitJMxEsldfuMDI\n3rExmfOOtwKBgDuxjG99W7jIJVsYtTW/CXG0PV58dr9ujPycgkP+CBPSmB1IcOJX\nGCkOQ/jJEq9sz1PJVtbDKSH29p4Ei9BuMA2YT+GXrTX3pCkZQkDmAHkolj+uaGgl\ndsi9SkgaZxVCwxQoYG2BT8m0x8NTWtsINipDq1AtAZmuoutwCPV2338pAoGAZTyw\nEBoccVezyp5p4A+XTaz48GesF68aZNn7gBKPowD/zaPBJoKf6M80cccqRWWqfeS9\n7MUeq/v36NkEB8bx5kna7Exo7EZluLocoRtUPYeyK5AVkW9quN9wAQbpK1mhZEFC\nhbSjd5Iz4vJ5WIEeBta+PU69Ln95Rx1V2k15lA8CgYBccarSO758grxrNus9ueZN\nVo8Gmot1oKtEz9uZ9JCf6mYpY6tMam3g837e/cePBsIiCy7j7jcarnFxejTPh3mI\ncuUwcqslp1Hck9UBGeM6dcqa6rSCxmkkrt59lyCt36WGLbEmBOT+aOTQnyaSuq96\nRfcMSGspHUniQg1P29Porw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fizard-dialogflow@river-autumn-409316.iam.gserviceaccount.com",
+  "client_id": "103072980358659338727",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fizard-dialogflow%40river-autumn-409316.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
